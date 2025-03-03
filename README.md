@@ -21,7 +21,8 @@ Journey Jett is a web-based travel recommendation system that integrates weather
 - **APIs Used:** Mapbox API, WeatherAPI  
 
 ## 📸 Screenshots  
-_(Include relevant screenshots of the project here)_  
+You can view the project screenshots here:  
+[📷 Screenshots Link](https://drive.google.com/file/d/1uZHSkRTxQskn653nDbioaE5JeOyMwCU0/view)  
 
 ## 🔧 Installation & Setup  
 1. **Clone the Repository:**  
