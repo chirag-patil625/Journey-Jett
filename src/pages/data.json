@@ -1,0 +1,194 @@
+{
+    "data": [
+        {
+            "id": 11,
+            "images": [
+                {
+                    "id": 1,
+                    "places_image": "/media/places/1200px-Khajuraho_Group_of_Monuments_4.jpg"
+                },
+                {
+                    "id": 2,
+                    "places_image": "/media/places/site_0240_0001-1200-630-20130801164256.jpg"
+                }
+            ],
+            "festivals": [],
+            "name": "Khajuraho Group of Monuments",
+            "info": "The Khajuraho Group of Monuments is a UNESCO World Heritage Site located in the Chhatarpur district of Madhya Pradesh. Built between the 9th and 11th centuries by the Chandela dynasty, these temples are renowned for their stunning architecture, intricate carvings, and exquisite sculptures depicting various aspects of life, including sensuality, spirituality, and everyday activities. The temples are divided into three groups - Western, Eastern, and Southern - each offering a unique glimpse into the rich cultural and artistic heritage of ancient India. Visitors can explore the intricately carved temples, marvel at the intricate sculptures of gods, goddesses, celestial beings, and mythical creatures, and admire the architectural brilliance of the Chandela craftsmen. The Khajuraho Group of Monuments is a testament to India's architectural and artistic excellence and attracts tourists, historians, and art enthusiasts from around the world.",
+            "city": "Khajuraho",
+            "state": "MP",
+            "location": [
+                24.8532,
+                79.9249
+            ],
+            "best_time": "Winter",
+            "rating": "5.0",
+            "category": "Heritage",
+            "total_reviews": 1
+        },
+        {
+            "id": 10,
+            "images": [
+                {
+                    "id": 1,
+                    "places_image": "/media/places/17f68c6f-7499-4779-bd6a-fcf1e575d7fa.jpg"
+                },
+                {
+                    "id": 2,
+                    "places_image": "/media/places/hudru-falls.jpg"
+                }
+            ],
+            "festivals": [],
+            "name": "Hundru Falls",
+            "info": "Hundru Falls, located near Ranchi in the Ranchi district of Jharkhand, is one of the highest waterfalls in India, cascading down from a height of 98 meters. Surrounded by dense forests and rocky cliffs, Hundru Falls offers a breathtaking spectacle of nature's grandeur, especially during the monsoon season when the waterfall is in full flow. Visitors can enjoy panoramic views of the falls from various viewpoints, indulge in photography, and relax amidst the serene ambiance of the surrounding wilderness. Hundru Falls also offers opportunities for adventure activities such as trekking, rappelling, and river rafting in the turbulent waters of the Subarnarekha River, making it a thrilling destination for adventure enthusiasts.",
+            "city": "Ranchi",
+            "state": "Jharkhand",
+            "location": [
+                23.3661,
+                85.4005
+            ],
+            "best_time": "Rainy",
+            "rating": "5.0",
+            "category": "Heritage",
+            "total_reviews": 2
+        },
+        {
+            "id": 9,
+            "images": [
+                {
+                    "id": 1,
+                    "places_image": "/media/places/image.jpeg"
+                },
+                {
+                    "id": 2,
+                    "places_image": "/media/places/jpg.webp"
+                }
+            ],
+            "festivals": [],
+            "name": "Majuli Island",
+            "info": "Majuli Island is the largest river island in the world, situated in the Brahmaputra River in the Jorhat district of Assam. Known for its scenic beauty, rich cultural heritage, and vibrant community of tribes, Majuli offers visitors a glimpse into Assam's traditional way of life. The island is famous for its Vaishnavite monasteries or satras, where devotees gather to perform prayers, dances, and cultural rituals. Visitors can explore attractions such as the Kamalabari Satra, Auniati Satra, and Dakhinpat Satra, as well as witness traditional crafts like pottery, mask-making, and weaving. Majuli also hosts the colorful Raas Mahotsav during the Hindu festival of Raas Purnima, celebrating the divine love of Lord Krishna and Radha.",
+            "city": "Jorhat",
+            "state": "Assam",
+            "location": [
+                26.95,
+                94.2167
+            ],
+            "best_time": "Winter",
+            "rating": "5.0",
+            "category": "Heritage",
+            "total_reviews": 1
+        },
+        {
+            "id": 8,
+            "images": [
+                {
+                    "id": 1,
+                    "places_image": "/media/places/Taj_Mahal_Edited.jpeg.webp"
+                },
+                {
+                    "id": 2,
+                    "places_image": "/media/places/taj-mahal-agra-india-TAJ0217-9eab8f20d11d4391901867ed1ce222b8.jpg"
+                },
+                {
+                    "id": 3,
+                    "places_image": "/media/places/taj-mahal-gettyimages-463924915.jpg"
+                }
+            ],
+            "festivals": [],
+            "name": "Taj Mahal",
+            "info": "The Taj Mahal is an iconic symbol of love and one of the most famous landmarks in the world, located in the city of Agra, Uttar Pradesh. Built by the Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, the Taj Mahal is renowned for its exquisite marble architecture, intricate carvings, and symmetrical gardens. Visitors can marvel at the grandeur of the Taj Mahal's white marble mausoleum, adorned with intricate inlay work and calligraphy, as well as explore the surrounding complex, including the lush gardens, reflecting pools, and ornate mosques. The Taj Mahal is a UNESCO World Heritage Site and attracts millions of tourists from around the globe who come to admire its timeless beauty and architectural brilliance.",
+            "city": "Agra",
+            "state": "Uttar Pradesh",
+            "location": [
+                27.1751,
+                78.0421
+            ],
+            "best_time": "Summer",
+            "rating": "5.0",
+            "category": "Heritage",
+            "total_reviews": 1
+        },
+        {
+            "id": 7,
+            "images": [
+                {
+                    "id": 1,
+                    "places_image": "/media/places/Kochi_Skyline.jpg"
+                },
+                {
+                    "id": 2,
+                    "places_image": "/media/places/pros-and-cons-of-moving-to-kochi.jpg"
+                }
+            ],
+            "festivals": [],
+            "name": "Kochi",
+            "info": "Kochi, also known as Cochin, is a vibrant port city located on the southwest coast of Kerala. Famous for its rich history, cultural heritage, and cosmopolitan vibe, Kochi offers a blend of colonial-era architecture, bustling markets, and serene backwaters. Visitors can explore attractions such as Fort Kochi, Mattancherry Palace, and the iconic Chinese fishing nets. Kochi is also a gateway to Kerala's scenic islands, including Willingdon Island and Vypin Island.",
+            "city": "Kochi",
+            "state": "Kerala",
+            "location": [
+                9.9312,
+                76.2673
+            ],
+            "best_time": "Winter",
+            "rating": "5.0",
+            "category": "Heritage",
+            "total_reviews": 1
+        },
+        {
+            "id": 6,
+            "images": [
+                {
+                    "id": 1,
+                    "places_image": "/media/places/1495023479_149502274240587.jpg"
+                },
+                {
+                    "id": 2,
+                    "places_image": "/media/places/1538058668.jpg"
+                },
+                {
+                    "id": 3,
+                    "places_image": "/media/places/one-day-pune-to-khandala-and-lonavala-tour-package-by-private-cab-header-1568x1045.webp"
+                }
+            ],
+            "festivals": [],
+            "name": "Lonavala and Khandala",
+            "info": "Lonavala and Khandala are twin hill stations nestled in the Sahyadri range of Maharashtra, India, located near the city of Pune. Known for their scenic landscapes, lush greenery, and pleasant weather, these hill stations attract tourists seeking a tranquil retreat amidst nature's bounty. Lonavala and Khandala are renowned for their breathtaking viewpoints, cascading waterfalls, and verdant valleys, making them popular destinations for nature lovers, adventure enthusiasts, and weekend travelers alike.\nOne of the highlights of Lonavala and Khandala is the mesmerizing natural beauty that surrounds the region. Visitors can explore scenic spots such as Tiger's Leap, a cliff-top viewpoint offering panoramic vistas of the valley and its surroundings, and Bhushi Dam, a picturesque dam nestled amidst lush greenery and gushing waterfalls. The region's lush forests are also home to several trekking trails, providing opportunities for adventure seekers to embark on exhilarating hikes and nature walks amidst the serene ambiance of the Sahyadris.\nIn addition to its natural attractions, Lonavala and Khandala offer a range of recreational activities and tourist amenities. Visitors can indulge in activities like boating on the serene lakes, enjoying local delicacies at the numerous eateries and restaurants, and shopping for souvenirs and handicrafts at the bustling markets. The hill stations also boast a variety of accommodation options, including luxury resorts, cozy guesthouses, and budget-friendly hotels, ensuring a comfortable stay for travelers exploring the region. With its scenic beauty, pleasant climate, and abundance of recreational opportunities, Lonavala and Khandala continue to captivate the hearts of visitors, making them a beloved destination for those seeking respite from the hustle and bustle of city life..",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "location": [
+                18.7543,
+                73.4062
+            ],
+            "best_time": "Rainy",
+            "rating": null,
+            "category": "Adventure",
+            "total_reviews": 0
+        },
+        {
+            "id": 5,
+            "images": [
+                {
+                    "id": 1,
+                    "places_image": "/media/places/Pushkar_2_YPAuipz.jpg"
+                },
+                {
+                    "id": 2,
+                    "places_image": "/media/places/Pushkar_DJ5bMBB.jpg"
+                }
+            ],
+            "festivals": [],
+            "name": "Pushkar",
+            "info": "Pushkar is a sacred town located in the Ajmer district of Rajasthan, renowned for its ancient temples, holy ghats, and the iconic Pushkar Lake. Considered one of the most important pilgrimage sites for Hindus, Pushkar attracts devotees who come to bathe in the sacred waters of the lake and offer prayers at the Brahma Temple, the only temple dedicated to Lord Brahma in the world. Visitors can also explore attractions such as the Savitri Temple, Varaha Temple, and the vibrant Pushkar Camel Fair, one of the largest livestock fairs in the world. Pushkar's spiritual ambiance and colorful festivals like Kartik Purnima and Pushkar Camel Fair make it a must-visit destination for travelers seeking a glimpse into Rajasthan's religious and cultural heritage.",
+            "city": "Pushkar",
+            "state": "Rajasthan",
+            "location": [
+                26.4896,
+                74.5511
+            ],
+            "best_time": "Winter",
+            "rating": null,
+            "category": "Pilgrimage",
+            "total_reviews": 0
+        }
+    ]
+}
